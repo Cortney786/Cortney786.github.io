@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why Software Engineer?  "Determination ""
+title:      "Why Software Engineer?  Determination"
 date:       2020-03-02 12:48:36 -0500
 permalink:  why_software_engineer_determination
 ---
